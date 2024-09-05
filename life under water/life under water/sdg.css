@@ -1,0 +1,13 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  scroll-behavior: smooth;
+}
+
+#SDG {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
